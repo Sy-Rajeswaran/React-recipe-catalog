@@ -1,8 +1,9 @@
 # Getting Started with the Recipe Catalog
 
 This project uses the free EDAMAM recipe api which can be accessed at: https://developer.edamam.com/edamam-recipe-api
-
-## Available Scripts
+<br/>
+<br/>
+To run this project open .env file and add your app_id and app_key from EDAMAM dashboard.
 
 In the project directory, you can run:
 
