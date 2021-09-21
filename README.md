@@ -1,4 +1,4 @@
-# Getting Started with the Recipe Catalog
+# Getting Started with the Recipe Catalogue
 
 This project uses the free EDAMAM recipe api which can be accessed at: https://developer.edamam.com/edamam-recipe-api
 <br/>
